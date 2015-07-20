@@ -1,0 +1,9 @@
+C:\Users\jepoy\Documents\Visual Studio 2012\Projects\xamarin-forms-samples\TabbedPageDemo\TabbedPageDemo\TabbedPageDemo\bin\Debug\TabbedPageDemo.dll
+C:\Users\jepoy\Documents\Visual Studio 2012\Projects\xamarin-forms-samples\TabbedPageDemo\TabbedPageDemo\TabbedPageDemo\bin\Debug\TabbedPageDemo.pdb
+C:\Users\jepoy\Documents\Visual Studio 2012\Projects\xamarin-forms-samples\TabbedPageDemo\TabbedPageDemo\TabbedPageDemo\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\jepoy\Documents\Visual Studio 2012\Projects\xamarin-forms-samples\TabbedPageDemo\TabbedPageDemo\TabbedPageDemo\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\jepoy\Documents\Visual Studio 2012\Projects\xamarin-forms-samples\TabbedPageDemo\TabbedPageDemo\TabbedPageDemo\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\jepoy\Documents\Visual Studio 2012\Projects\xamarin-forms-samples\TabbedPageDemo\TabbedPageDemo\TabbedPageDemo\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\jepoy\Documents\Visual Studio 2012\Projects\xamarin-forms-samples\TabbedPageDemo\TabbedPageDemo\TabbedPageDemo\obj\Debug\TabbedPageDemoPage.xaml.g.cs
+C:\Users\jepoy\Documents\Visual Studio 2012\Projects\xamarin-forms-samples\TabbedPageDemo\TabbedPageDemo\TabbedPageDemo\obj\Debug\TabbedPageDemo.dll
+C:\Users\jepoy\Documents\Visual Studio 2012\Projects\xamarin-forms-samples\TabbedPageDemo\TabbedPageDemo\TabbedPageDemo\obj\Debug\TabbedPageDemo.pdb
